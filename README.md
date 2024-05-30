@@ -8,7 +8,7 @@
 -os, shutil
 
 ### Python Functions Used
--For Loops
--If Statements
--Elif Statements
--Else Statements
+-For Loops,
+If Statements,
+Elif Statements,
+Else Statements
